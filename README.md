@@ -1,2 +1,2 @@
-code files exist in Assignment 1/Controller folder
-Screenshos exist in Screenshots folder
+Code files exist in Assignment 1/Controller folder.
+Screenshots exist in screenshots folder
